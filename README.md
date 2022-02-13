@@ -29,5 +29,6 @@ print("Product of two arrays is:",result)
 ```
 ## OUTPUT:
 ![output](s8.png)
+![]()
 ## RESULT:
 we succesfully finished th program
